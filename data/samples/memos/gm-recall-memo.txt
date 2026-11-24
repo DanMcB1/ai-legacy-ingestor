@@ -1,0 +1,20 @@
+LAKESIDE AUTO GROUP
+Lakeside Honda — General Manager
+
+MEMO
+
+To:      Service and F&I Managers, Lakeside Honda
+From:    Patricia Walsh — General Manager
+Date:    November 12, 2026
+Subject: Fuel pump recall 24V-312 — pull the paper jackets
+
+We received the Honda campaign list for recall 24V-312 (fuel pump) this morning. Please pull the deal jackets and any open repair orders for affected vehicles still in our service history.
+
+One I already recognize is Anita Rosales, 2019 Honda Accord, VIN 1HGCV2F36KA123456. She was in on March 18, 2026 for a warranty claim on a transmission cooler line (claim WTY-26-04418). That jacket is still in the file room, not in the DMS.
+
+If a customer on the campaign list only exists on a paper RO or a mainframe extract, do not wait for the new system. Flag the VIN, call the customer, and log the contact on the recall tracker.
+
+This is a sample memo for a portfolio demo. Lakeside Auto Group is fictional.
+
+Patricia Walsh
+General Manager, Lakeside Honda

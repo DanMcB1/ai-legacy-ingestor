@@ -1,0 +1,13 @@
+Lakeside Auto Group — Service History Export (unofficial pull 11/24/2026)
+Store, dates, and amounts are not normalized. Do not use for month-end.
+
+Cust. Name,DATE,Vin #,RO Amt,Advisor,RO #,Store,Year,Make,Model
+"WEBB, MARCUS",11/3/26,19XFC2F58JE123456,"$487.62",Maya Chen,RO-184422,Lakeside Honda,2018,Honda,Civic
+"ROSALES, ANITA M",18-Mar-2026,1HG CV2F36 KA123456,1847.22,Maya Chen,RO-190118,Lakeside Honda,2019,Honda,Accord
+"Nguyen, Thomas",2026-09-14,5J6RW2H86PA123456,"1,102.00",Jose Ramirez,RO-191002,Lakeside Honda,2023,Honda,CR-V
+"BISHOP, CARLA",11/02/26,4T1C11AK8LU123456,($88.40),Priya Shah,RO-77410,Lakeside Toyota,2020,Toyota,Camry
+"OKONKWO, JAMES",20260930,5FNYF6H90MB123456,256.00,Maya Chen,RO-191440,Lakeside Honda,2021,Honda,Pilot
+"PARK, HELEN",Oct 4 2026,5TDGZRBH9NS123456,980.15,Priya Shah,RO-77502,Lakeside Toyota,2022,Toyota,Highlander
+"RUIZ, DAVID",07/29/16,5FNRL5H69GB123456,125.00-,Jose Ramirez,RO-1120,Lakeside Honda,2016,Honda,Odyssey
+"WEBB, MARCUS",not-a-date,19XFC2F5,see jacket,Maya Chen,RO-184500,Lakeside Honda,2018,Honda,Civic
+,,,,,,
