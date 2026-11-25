@@ -1,5 +1,7 @@
 # Unstructured Legacy Ingestor
 
+**Portfolio project #3 of 12** from [@suraj_sharma14's FDE project list](https://x.com/suraj_sharma14/status/2125197762752806998).
+
 A small, offline demo that turns **messy legacy sources** — crooked scans of old forms, a mainframe extract, a messy spreadsheet, and a plain memo — into a **clean, chunked, searchable store**, with a citation back to the source file, page, or record.
 
 This is a **portfolio demo**, not production software. The documents are **sample data**. The app does not connect to a real DMS, filing cabinet, or document-management system, and it does not send data to a paid API.
